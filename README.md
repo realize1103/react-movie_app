@@ -16,10 +16,21 @@ Npx
   - npx create-react-app react-movie_app  
 - strart service
   - npm start
-###Contact Information
+
+How to use git  
+git init   
+git remote add origin https://github.com/realize1103/react-movie_app  
+git add .  
+git commit -m "initial commit"    
+it push origin master    
+
+
+npm i prop-types  
+npm i axios  
+###Contact Information  
 Email : *[kwanwooleeDeveloper@gmail.com](mailto:kwanwooleeDeveloper@gmail.com)*
 
-###Known Issues
-###Troubleshooting
-###Change Log
+###Known Issues  
+###Troubleshooting  
+###Change Log  
 

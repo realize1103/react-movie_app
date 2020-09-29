@@ -27,7 +27,12 @@ it push origin master
 
 npm i prop-types  
 npm i axios  
+npm i gh-pages   
+npm install react-router-dom  
+
 ###Contact Information  
+
+npm run build 
 Email : *[kwanwooleeDeveloper@gmail.com](mailto:kwanwooleeDeveloper@gmail.com)*
 
 ###Known Issues  
